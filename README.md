@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/65919c23-c66a-453c-bdf4-3830c11b7c22)# Keizer Blogs
-
 **Keizer Blogs** is an open-source, static blogging platform built with Astro and Novel Editor, designed for simplicity, performance, and extensibility. This platform allows users to read articles seamlessly, while administrators can create and manage content with advanced tools like LangDB for AI-driven auto-completions.
 
 ---
